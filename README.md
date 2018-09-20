@@ -31,8 +31,10 @@ password use _mir_
 
 Then, you can access the notebooks from the browser and run them.
 
-## Author
-Honglin Ma
+## Credits
+This work is based on a collaboration between Honglin Ma, Rafael Caro Repetto, Rong Gong, Alastair Porter and Xavier Serra. The notebook use the Jingju Corpus in Dunya(http://dunya.compmusic.upf.edu/).
+
+
 
 
 
